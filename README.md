@@ -1,4 +1,4 @@
-# Manipulación y Representación de Datos Estadísticos con R
+# Tratamiento de Datos Estadísticos con R
 
 Este repositorio contiene un desarrollo en **lenguaje R** orientada a la **manipulación, análisis estadístico y representación gráfica de datos**, usando datasets integrados.
 
